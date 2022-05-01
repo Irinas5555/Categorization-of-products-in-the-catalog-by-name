@@ -56,5 +56,6 @@ Categorization of products in the catalog by name
 
 Проще понять подсчет данных метрик поможет следующий пример и [статья](https://www.cs.kent.ac.uk/people/staff/aaf/pub_papers.dir/DMKD-J-2010-Silla.pdf)**.**
 
-Посчитаем **F1** score для листовой категории **“Шины”.**
+Пример расчета **F1** score для листовой категории **“Шины”.**
+![Untitled](https://github.com/Irinas5555/Categorization-of-products-in-the-catalog-by-name/blob/main/Screenshot_2022-04-08_at_12.05.04.png)
 
