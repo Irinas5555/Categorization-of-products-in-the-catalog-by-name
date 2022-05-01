@@ -42,7 +42,7 @@ Categorization of products in the catalog by name
 
 Для честной оценки многоуровневой классификации мы будем использовать видоизмененную метрику **F1**, взвешенную на размер выборки класса(при подсчете учитываются только листовые категории):
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f205aea0-8af8-4f2f-a83a-74dbc751979b/Untitled.png)
+![Untitled](https://github.com/Irinas5555/Categorization-of-products-in-the-catalog-by-name/blob/main/Untitled.png)
 
 **Pi -** это набор, состоящий из классов, предсказанных для каждого сэмпла i и соотвествующих классов-предков
 
