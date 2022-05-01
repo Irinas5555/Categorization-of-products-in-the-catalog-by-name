@@ -1,7 +1,7 @@
 # Categorization-of-products-in-the-catalog-by-name
 Categorization of products in the catalog by name
 
- Тестовое от [KazanExpress](https://kazanexpress.ru/)! 🛒
+Решение тестового задания от [KazanExpress](https://kazanexpress.ru/) 🛒
 
 ## Задача
 
