@@ -59,6 +59,8 @@ Categorization of products in the catalog by name
 Пример расчета **F1** score для листовой категории **“Шины”.**
 ![Untitled](https://github.com/Irinas5555/Categorization-of-products-in-the-catalog-by-name/blob/main/Screenshot_2022-04-08_at_12.05.04.png)
 
+### Решение
+
 Для решения задачи использовалась предобученная нейронная сеть ("cointegrated/rubert-tiny2") с последующим дообучением весов под конкретную задачу классификации. 
 - models.py содержит классы для формирования датасета и модели на torch,
 - utils.py содержит необходимые функции для обучения модели и расчета метрик,
