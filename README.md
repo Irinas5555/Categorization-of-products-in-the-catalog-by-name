@@ -42,7 +42,7 @@ Categorization of products in the catalog by name
 
 Для честной оценки многоуровневой классификации мы будем использовать видоизмененную метрику **F1**, взвешенную на размер выборки класса(при подсчете учитываются только листовые категории):
 
-![Untitled](https://github.com/Irinas5555/Categorization-of-products-in-the-catalog-by-name/blob/main/Untitled.png)
+![Untitled](https://github.com/Irinas5555/Categorization-of-products-in-the-catalog-by-name/blob/main/Picture1.png)
 
 **Pi -** это набор, состоящий из классов, предсказанных для каждого сэмпла i и соотвествующих классов-предков
 
@@ -57,7 +57,7 @@ Categorization of products in the catalog by name
 Проще понять подсчет данных метрик поможет следующий пример и [статья](https://www.cs.kent.ac.uk/people/staff/aaf/pub_papers.dir/DMKD-J-2010-Silla.pdf)**.**
 
 Пример расчета **F1** score для листовой категории **“Шины”.**
-![Untitled](https://github.com/Irinas5555/Categorization-of-products-in-the-catalog-by-name/blob/main/Screenshot_2022-04-08_at_12.05.04.png)
+![Untitled](https://github.com/Irinas5555/Categorization-of-products-in-the-catalog-by-name/blob/main/Picture2.png)
 
 ### Решение
 
